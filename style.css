@@ -79,6 +79,11 @@ ul{
 }
 .element{
     margin-top: 2rem;
+    transition: 1s;
+}
+.element:hover{
+    padding: 10px;
+    background-color: rgb(58, 112, 115);
 }
 .box_class{
     margin: 10px;
